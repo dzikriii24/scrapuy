@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment Variables
+.env
+
+# MacOS
+.DS_Store
+
+# Tool caches
+.wdm/
+.pytest_cache/
+
+# User-generated data and downloads
+evaluasi mbg/
+audio/
+image/
+text/
+*.mp4
+*.jpg
+*.jpeg
+*.png
+*.txt
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
